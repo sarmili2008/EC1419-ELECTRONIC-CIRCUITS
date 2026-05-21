@@ -33,4 +33,7 @@
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-
+Maximum  voltage gain = 68 dB
+Lower cut off frequency = 90Hz
+Upper cut off frequency = 70MHz
+Bandwidth= 69.9MHz
