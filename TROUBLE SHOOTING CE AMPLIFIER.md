@@ -13,3 +13,6 @@
 <img width="897" height="712" alt="image" src="https://github.com/user-attachments/assets/f172f6e3-98d2-45c6-80c0-9d1a4bf9c82a" />
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+1.Gain of the amplifier = 68dB
+2.Bandwidth of amplifier = 100.2Hz
+3.Gain - Bandwidth product = 219.43KHz
