@@ -8,7 +8,12 @@
 
 
 # Tabulation with readings
+<img width="800" height="666" alt="image" src="https://github.com/user-attachments/assets/f3bbcd60-b1ec-4963-b59e-e180329097a3" />
 
 ## Semilog plotted Graph
+<img width="925" height="708" alt="image" src="https://github.com/user-attachments/assets/352b113d-f6de-45bd-94b5-e315ae9f60b1" />
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
+1.Gain of the amplifier = 68dB
+2.Bandwidth of the amplifier = 99.3KHz
+3.Gain - Bandwidth product = 217.48KHz
